@@ -18,6 +18,11 @@ section > div {
     padding: 0.1em;
 }
 
+h1{
+    color: rgb(198, 58, 27);
+    font-size: 30px;
+}
+
 img {
     width: auto;
 	height: auto;

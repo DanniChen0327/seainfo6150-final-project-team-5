@@ -1,0 +1,28 @@
+.category{
+    
+    font-family: Helvetica;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column nowrap;
+}
+
+.dishTitle{
+    color: rgb(198, 58, 27);
+    font-size: 45px;
+}
+
+.image{
+    box-shadow: 0 6px 8px 0 dimgray; 
+    width:800px;
+    height: 600px;
+}
+
+.summaryTitle{
+    color: rgb(198, 58, 27);
+    font-size:35px;
+}
+
+.summary{
+    border: 2px solid rgb(237, 125, 50);
+}

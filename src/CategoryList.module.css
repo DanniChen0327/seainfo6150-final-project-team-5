@@ -1,0 +1,15 @@
+h1{
+    color: rgb(198, 58, 27);
+    font-size: 45px;
+}
+
+
+a{
+    color: rgb(198, 58, 27);
+}
+
+img{
+    box-shadow: 0 6px 8px 0 dimgray; 
+    width:800px;
+    height: 300px;
+}
